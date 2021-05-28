@@ -1,0 +1,1243 @@
+{
+  "$type": "Manifest, Wabbajack.Lib",
+  "Name": "Solid Systems Duo",
+  "Version": "0.0.1",
+  "Author": "TDarkShadow",
+  "Description": "An utility list to partake in Sim Settlements 2 City Plan contests.",
+  "GameType": "Fallout4",
+  "GameName": "Fallout4",
+  "ModManager": 0,
+  "ModManagerName": "MO2",
+  "DownloadSize": 2652237257,
+  "InstallSize": 5770353132,
+  "IsNSFW": false,
+  "Archives": [
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "PfX6zen7m2M=",
+      "Meta": null,
+      "Name": "Mod.Organizer-2.4.2.7z",
+      "Size": 89503525,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z",
+        "Headers": [],
+        "PrimaryKeyString": "HTTPDownloader+State|https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "KjhKrrH61jo=",
+      "Meta": null,
+      "Name": "f4se_0_06_21.7z",
+      "Size": 598435,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Url": "https://f4se.silverlock.org/beta/f4se_0_06_21.7z",
+        "Headers": [],
+        "PrimaryKeyString": "HTTPDownloader+State|https://f4se.silverlock.org/beta/f4se_0_06_21.7z"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "0AiA5TRelPg=",
+      "Meta": null,
+      "Name": "xSE PluginPreloader F4 0.2.4-33946-0-2-4-1606749072.zip",
+      "Size": 2690368,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "xSE PluginPreloader F4",
+        "Author": "Kerber",
+        "Version": "0.2.4.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1538438829-1641188428.png",
+        "IsNSFW": false,
+        "Description": "This mod allows preload F4SE plugins before the game initializes.",
+        "GameName": "Fallout4",
+        "ModID": 33946,
+        "FileID": 195989,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|33946|195989"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "BWAjAxFMX7s=",
+      "Meta": null,
+      "Name": "TBB Redistributables-47359-2020-3-1601257681.zip",
+      "Size": 94461,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Buffout 4",
+        "Author": "Ryan",
+        "Version": "0.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png",
+        "IsNSFW": false,
+        "Description": "It's like buffout but for the engine",
+        "GameName": "Fallout4",
+        "ModID": 47359,
+        "FileID": 192106,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47359|192106"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "3ubG0HI1rsI=",
+      "Meta": null,
+      "Name": "Boston FPS Fix - AIO-26286--32.7z",
+      "Size": 132188048,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Boston FPS Fix - aka BostonDT PreVis-PreCombine",
+        "Author": "BetaVirus",
+        "Version": ".32",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26286-0-1508036819.jpg",
+        "IsNSFW": false,
+        "Description": "This mod improves performance (FPS) in Boston and surrounding area. External areas only. This mod is beneficial to anyone that roams the boston area with mods that disable previs or break precombines in the boston area.",
+        "GameName": "Fallout4",
+        "ModID": 26286,
+        "FileID": 131132,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|26286|131132"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "PEjwlQk/lDU=",
+      "Meta": null,
+      "Name": "PaladinBaileyRedRocket-26286--1.7z",
+      "Size": 7772736,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Boston FPS Fix - aka BostonDT PreVis-PreCombine",
+        "Author": "BetaVirus",
+        "Version": ".1",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26286-0-1508036819.jpg",
+        "IsNSFW": false,
+        "Description": "This mod improves performance (FPS) in Boston and surrounding area. External areas only. This mod is beneficial to anyone that roams the boston area with mods that disable previs or break precombines in the boston area.",
+        "GameName": "Fallout4",
+        "ModID": 26286,
+        "FileID": 113072,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|26286|113072"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "UAy0oaV99sw=",
+      "Meta": null,
+      "Name": "Canary v 1.0.0-44949-1-0-0-1588955837.7z",
+      "Size": 8237,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Canary Save File Monitor",
+        "Author": "kinggath",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44949/44949-1588955403-808920514.png",
+        "IsNSFW": false,
+        "Description": "Monitors your save file for data loss and warns you when you load the game, so you can avoid wasting time playing on a busted save and roll back immediately.",
+        "GameName": "Fallout4",
+        "ModID": 44949,
+        "FileID": 181383,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|44949|181383"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "ipHoMzdoc8M=",
+      "Meta": null,
+      "Name": "City Plan Contest Assistant-50366-1-0-12-1619630655.zip",
+      "Size": 1460993,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "City Plan Contest Assistant",
+        "Author": "Sim Settlements Team",
+        "Version": "1.0.12.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50366/50366-1614539297-1986361704.png",
+        "IsNSFW": false,
+        "Description": "Simple utility mod to make entering the Sim Settlements 2 City Plan Contest incredibly easy.",
+        "GameName": "Fallout4",
+        "ModID": 50366,
+        "FileID": 206840,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|50366|206840"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "qETXdSZXJcM=",
+      "Meta": null,
+      "Name": "Flicker Fixer ESL v5.6-35720-5-6-1596410377.7z",
+      "Size": 1330079,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Flicker Fixer",
+        "Author": "Glass",
+        "Version": "5.6.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35720/35720-1542118478-502390894.png",
+        "IsNSFW": false,
+        "Description": "Fixes most of the exterior flickering aka z fighting in the game, particularly in the Boston and Cambridge areas.",
+        "GameName": "Fallout4",
+        "ModID": 35720,
+        "FileID": 188251,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|35720|188251"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "F4OiU8zWWCo=",
+      "Meta": null,
+      "Name": "Photo Mode 1.0.3-49997-1-0-3-1613821040.zip",
+      "Size": 230429,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "FO4 Photo Mode",
+        "Author": "reg2k",
+        "Version": "1.0.3.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49997/49997-1612969549-2007075779.png",
+        "IsNSFW": false,
+        "Description": "Adds a photo mode to Fallout 4, accessible from the Pause menu or via hotkey.",
+        "GameName": "Fallout4",
+        "ModID": 49997,
+        "FileID": 201941,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|49997|201941"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "PK0TsJNp+kg=",
+      "Meta": null,
+      "Name": "HUDFramework 1.0f-20309-1-0f.zip",
+      "Size": 287655,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "HUDFramework",
+        "Author": "registrator2000",
+        "Version": "1.0.0.0f",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20309-0-1495318464.png",
+        "IsNSFW": false,
+        "Description": "HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD.",
+        "GameName": "Fallout4",
+        "ModID": 20309,
+        "FileID": 93183,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|20309|93183"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "8lIREpUcRSk=",
+      "Meta": null,
+      "Name": "Raw Input - Sprint Fix Patch-41904-1-0-1572772319.7z",
+      "Size": 1198,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Patch for Smooth First Person Sprint and Raw Input",
+        "Author": "MisterSheikh",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41904/41904-1572772072-1196099338.jpeg",
+        "IsNSFW": false,
+        "Description": "Just a simple fix to make Smooth First Person Sprint compatible with Raw Input, two mods that I believe are essential.",
+        "GameName": "Fallout4",
+        "ModID": 41904,
+        "FileID": 170158,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|41904|170158"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "56uCRUJRebA=",
+      "Meta": null,
+      "Name": "Previs Repair Pack Interiors-46403-0-19-09272020-1604182441.7z",
+      "Size": 386022271,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Previs Repair Pack",
+        "Author": "BenRierimanu",
+        "Version": "0.19.9272020.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1597532886-663409794.jpeg",
+        "IsNSFW": false,
+        "Description": "Basically BostonFPSFix but more up to date, interior and exterior cells covered.",
+        "GameName": "Fallout4",
+        "ModID": 46403,
+        "FileID": 194081,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46403|194081"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "QvRPNl0uv1g=",
+      "Meta": null,
+      "Name": "Previs Repair Pack Interiors-46403-0-19-12062020-1607287275.7z",
+      "Size": 5367908,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Previs Repair Pack",
+        "Author": "BenRierimanu",
+        "Version": "0.19.12062020.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1597532886-663409794.jpeg",
+        "IsNSFW": false,
+        "Description": "Basically BostonFPSFix but more up to date, interior and exterior cells covered.",
+        "GameName": "Fallout4",
+        "ModID": 46403,
+        "FileID": 196485,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46403|196485"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "HcZRIP8ylLY=",
+      "Meta": null,
+      "Name": "RAW INPUT - NMM Installer-27019-2-4.zip",
+      "Size": 120396,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "RAW INPUT - The Ultimate Mouse Sensitivity Fix",
+        "Author": "IceKK",
+        "Version": "2.4.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27019-1-1506399199.jpg",
+        "IsNSFW": false,
+        "Description": "Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier, Normalized Sensitivity",
+        "GameName": "Fallout4",
+        "ModID": 27019,
+        "FileID": 139155,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|27019|139155"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "XAfLAFDrCIs=",
+      "Meta": null,
+      "Name": "Rise of the Commonwealth for SS2-50684-1-0-10-1616168727.7z",
+      "Size": 1110802,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Rise of the Commonwealth for Sim Settlements 2",
+        "Author": "Sim Settlements Team",
+        "Version": "1.0.10.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50684/50684-1615406775-1074039792.png",
+        "IsNSFW": false,
+        "Description": "Collection of 36 upgradeable City Plans for Sim Settlements 2, covering every vanilla and DLC settlement!",
+        "GameName": "Fallout4",
+        "ModID": 50684,
+        "FileID": 204040,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|50684|204040"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "pUK5JnvM9+k=",
+      "Meta": null,
+      "Name": "Sim Settlements 2-47976-1-0-13a-1621226046.7z",
+      "Size": 971727186,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Sim Settlements 2",
+        "Author": "Sim Settlements Team",
+        "Version": "1.0.13.0a",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47976/47976-1603507384-1823802441.png",
+        "IsNSFW": false,
+        "Description": "Sequel to the Fallout 4 city-building simulator.",
+        "GameName": "Fallout4",
+        "ModID": 47976,
+        "FileID": 208103,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47976|208103"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "sOYFWfd2TJI=",
+      "Meta": null,
+      "Name": "SS2 Extended-47976-1-0-12a-1619901788.7z",
+      "Size": 976987633,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Sim Settlements 2",
+        "Author": "Sim Settlements Team",
+        "Version": "1.0.12.0a",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47976/47976-1603507384-1823802441.png",
+        "IsNSFW": false,
+        "Description": "Sequel to the Fallout 4 city-building simulator.",
+        "GameName": "Fallout4",
+        "ModID": 47976,
+        "FileID": 207036,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47976|207036"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "wur7qelYm3Y=",
+      "Meta": null,
+      "Name": "SS2 Workshop HUD Override-47976-1-0-1-1605295694.7z",
+      "Size": 42334,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Sim Settlements 2",
+        "Author": "Sim Settlements Team",
+        "Version": "1.0.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47976/47976-1603507384-1823802441.png",
+        "IsNSFW": false,
+        "Description": "Sequel to the Fallout 4 city-building simulator.",
+        "GameName": "Fallout4",
+        "ModID": 47976,
+        "FileID": 194876,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47976|194876"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "aerSsBzm17w=",
+      "Meta": null,
+      "Name": "Wasteland Reconstruction Kit-48960-0-1g-1619801487.7z",
+      "Size": 23989199,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Sim Settlements 2 Wasteland Reconstruction Kit",
+        "Author": "Sim Settlements Team",
+        "Version": "0.1.0.0g",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48960/48960-1608343167-1575901887.png",
+        "IsNSFW": false,
+        "Description": "Over 10,000 buildable items provided through Sim Settlements 2, including dozens of prefab building models!",
+        "GameName": "Fallout4",
+        "ModID": 48960,
+        "FileID": 206951,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|48960|206951"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "SYrl1e0VidE=",
+      "Meta": null,
+      "Name": "SKKFastStartLocation_010-31198-010-1617216982.zip",
+      "Size": 33515,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "SKK Fast Start Location",
+        "Author": "SKK50",
+        "Version": "10.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31198/31198-1596579554-146680190.png",
+        "IsNSFW": false,
+        "Description": "An alternative start from Vault 111 exit to a selected Commonwealth workshop or POI starting location with some inventory to get going. A fresh new game experience that works with your vault exit save games or SKK FastStart new game.",
+        "GameName": "Fallout4",
+        "ModID": 31198,
+        "FileID": 204853,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|31198|204853"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "WOY442AWVvE=",
+      "Meta": null,
+      "Name": "SKKFastStartNewGame_019-29227-019-1617191609.zip",
+      "Size": 30242,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "SKK Fast Start new game",
+        "Author": "SKK50",
+        "Version": "19.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29227/29227-1617188242-101692790.jpeg",
+        "IsNSFW": false,
+        "Description": "FastStart a new game in less than 2 minutes from Main menu &gt; Looks menu &gt; SPECIAL menu &gt; Outside Vault 111 with most mod added inventory items. This is a scripted bypass, not a static savegame so you get full player customisation and fresh RNG.",
+        "GameName": "Fallout4",
+        "ModID": 29227,
+        "FileID": 204835,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|29227|204835"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "P840L6vWNAU=",
+      "Meta": null,
+      "Name": "Unofficial Fallout 4 Patch-4598-2-1-2b-1608151168.7z",
+      "Size": 27464046,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Unofficial Fallout 4 Patch",
+        "Author": "Unofficial Patch Project Team",
+        "Version": "2.1.2.0b",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
+        "IsNSFW": false,
+        "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
+        "GameName": "Fallout4",
+        "ModID": 4598,
+        "FileID": 197179,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|4598|197179"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "/WdTRc7/yRc=",
+      "Meta": null,
+      "Name": "Wait Anywhere - 2.1.1-26145-2-1-1.zip",
+      "Size": 6744,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Wait Anywhere",
+        "Author": "shad0wshayd3",
+        "Version": "2.1.1.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26145-4-1502781141.png",
+        "IsNSFW": false,
+        "Description": "Take a seat? Nah.",
+        "GameName": "Fallout4",
+        "ModID": 26145,
+        "FileID": 122374,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|26145|122374"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "SaN1jRO5dgk=",
+      "Meta": null,
+      "Name": "Workshop Framework-35004-2-0-13-1621018877.7z",
+      "Size": 867740,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Workshop Framework",
+        "Author": "kinggath",
+        "Version": "2.0.13.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35004/35004-1538179488-326730582.png",
+        "IsNSFW": false,
+        "Description": "Framework to open up the settlement system to editing by the community.\n\n\n\nFor Players: New controls and faster, more stable workshop scripts.\n\n\n\nFor Modders: Add new resource types, override settings, and generally change the way settlements work dynamically.",
+        "GameName": "Fallout4",
+        "ModID": 35004,
+        "FileID": 207899,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|35004|207899"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "yvrFPIsEKDs=",
+      "Meta": null,
+      "Name": "Workshop Plus v1.1.10a-35005-1-1-10a-1598630024.7z",
+      "Size": 317094,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Workshop Plus",
+        "Author": "kinggath",
+        "Version": "1.1.10.0a",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35005/35005-1538179519-1847896109.png",
+        "IsNSFW": false,
+        "Description": "Transforms Workshop mode into a God simulator - giving you all of the tools you need to create amazing settlements. \n\n\n\nFlight, Undo Buttons, Layers, Cloning Tools, Free Build Mode, and more!",
+        "GameName": "Fallout4",
+        "ModID": 35005,
+        "FileID": 190082,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|35005|190082"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Ba8gpxkxUjE=",
+      "Meta": null,
+      "Name": "Better Console-26582-v1-4-0.7z",
+      "Size": 196118,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Better Console - F4SE",
+        "Author": "Kassent",
+        "Version": "1.4.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26582-0-1504651363.jpg",
+        "IsNSFW": false,
+        "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target's name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor's all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
+        "GameName": "Fallout4",
+        "ModID": 26582,
+        "FileID": 120757,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|26582|120757"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "I+Tg+bKVsRM=",
+      "Meta": null,
+      "Name": "Mod Configuration Menu 1.39-21497-1-39-1575706632.zip",
+      "Size": 371675,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Mod Configuration Menu",
+        "Author": "reg2k - Neanka - shadowslasher410",
+        "Version": "1.39.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21497-0-1504319702.png",
+        "IsNSFW": false,
+        "Description": "The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu.",
+        "GameName": "Fallout4",
+        "ModID": 21497,
+        "FileID": 172180,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|21497|172180"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "5cXNfaQB38E=",
+      "Meta": null,
+      "Name": "NIV-47678-1-0-1601501467.7z",
+      "Size": 593,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "No Intro Videos",
+        "Author": "ikotsu",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47678/47678-1601501165-1692470267.png",
+        "IsNSFW": false,
+        "Description": "This mod replaces all intro videos and perk videos with 1 second long black screen clips.",
+        "GameName": "Fallout4",
+        "ModID": 47678,
+        "FileID": 192288,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47678|192288"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "fBym78ppD2w=",
+      "Meta": null,
+      "Name": "Place (Fallout4 1.10.163 - latest release)-9424-1-18-0-1163-1575581603.7z",
+      "Size": 627762,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Place Everywhere",
+        "Author": "TheLich",
+        "Version": "1.18.0.1163",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9424-0-1456178323.jpg",
+        "IsNSFW": false,
+        "Description": "Place/build objects in settlements everywhere you want, change objects whatever you like. No more RED!",
+        "GameName": "Fallout4",
+        "ModID": 9424,
+        "FileID": 172081,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|9424|172081"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "XfUvmrSOLO4=",
+      "Meta": null,
+      "Name": "0005. Power Grid Tools 1.4-17777-1-4-1580736283.zip",
+      "Size": 168807,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "R2K's Gameplay Mods",
+        "Author": "registrator2000",
+        "Version": "1.4.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17777-0-1504919749.png",
+        "IsNSFW": false,
+        "Description": "A collection of mods and ends.",
+        "GameName": "Fallout4",
+        "ModID": 17777,
+        "FileID": 175288,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|17777|175288"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "wvfNBePIyHY=",
+      "Meta": null,
+      "Name": "Addres Library-47327-1-10-163-0-1599728753.zip",
+      "Size": 9554761,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Address Library for F4SE Plugins",
+        "Author": "Ryan",
+        "Version": "1.10.163.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47327/47327-1599728447-276378518.png",
+        "IsNSFW": false,
+        "Description": "Provides version independent IDs used for dynamically relocating offsets at runtime.",
+        "GameName": "Fallout4",
+        "ModID": 47327,
+        "FileID": 191018,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47327|191018"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "0zHoDD9Tq4Y=",
+      "Meta": null,
+      "Name": "Baka ScrapHeap-46340-1-3-1603929984.7z",
+      "Size": 280466,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Baka ScrapHeap - Script Memory Limit Expander",
+        "Author": "shad0wshayd3",
+        "Version": "1.3.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46340/46340-1595034076-1478199644.png",
+        "IsNSFW": false,
+        "Description": "A version independent F4SE plugin that expands the default size of ScrapHeap allocations.",
+        "GameName": "Fallout4",
+        "ModID": 46340,
+        "FileID": 193899,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|46340|193899"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "oSC1bOUiXH0=",
+      "Meta": null,
+      "Name": "Buffout 4-47359-1-23-0-1618990798.zip",
+      "Size": 639637,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Buffout 4",
+        "Author": "Ryan",
+        "Version": "0.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png",
+        "IsNSFW": false,
+        "Description": "It's like buffout but for the engine",
+        "GameName": "Fallout4",
+        "ModID": 47359,
+        "FileID": 206358,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47359|206358"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "YnjSGKNA5KI=",
+      "Meta": null,
+      "Name": "Console Commands Extender-47328-1-1-0-1599901559.zip",
+      "Size": 144460,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Console Commands Extender",
+        "Author": "Ryan",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47328/47328-1599730497-1544020672.png",
+        "IsNSFW": false,
+        "Description": "This mod adds new commands and overhauls existing commands within the console.",
+        "GameName": "Fallout4",
+        "ModID": 47328,
+        "FileID": 191107,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47328|191107"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "6Wql/l6hLVI=",
+      "Meta": null,
+      "Name": "Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip",
+      "Size": 145150,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Crafting Highlight Fix",
+        "Author": "registrator2000",
+        "Version": "1.8.8.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27479-0-1508689568.gif",
+        "IsNSFW": false,
+        "Description": "A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you're crafting.\n\n\n\nAlso allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader.",
+        "GameName": "Fallout4",
+        "ModID": 27479,
+        "FileID": 172411,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|27479|172411"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "RhMKBioeCrs=",
+      "Meta": null,
+      "Name": "Faster Workshop 1.1-35382-1-1-1539871573.zip",
+      "Size": 146993,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Faster Workshop (Workshop Lag Fix)",
+        "Author": "reg2k",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35382/35382-1539788257-692463014.png",
+        "IsNSFW": false,
+        "Description": "Faster Workshop is an F4SE plugin that optimizes workshop loading times by replacing some of the most expensive and inefficient regions of workshop loading code with far more efficient versions. Also provides a hotkey to instantly enter Workshop mode and fixes workshop icon load lag.",
+        "GameName": "Fallout4",
+        "ModID": 35382,
+        "FileID": 143840,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|35382|143840"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "5qrpCA+absI=",
+      "Meta": null,
+      "Name": "High FPS Physics Fix-44798-0-8-3-1617826265.zip",
+      "Size": 195612,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "High FPS Physics Fix",
+        "Author": "Antonix35",
+        "Version": "0.8.3.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
+        "IsNSFW": false,
+        "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
+        "GameName": "Fallout4",
+        "ModID": 44798,
+        "FileID": 205372,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|44798|205372"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "OY0FjwaQhak=",
+      "Meta": null,
+      "Name": "NSO - Base Pack 5.0-13959-5-0.7z",
+      "Size": 9404533,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "NSO - New Snap Order - snap points for furniture and decor",
+        "Author": "Vman0341",
+        "Version": "5.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13959-13-1468807905.png",
+        "IsNSFW": false,
+        "Description": "Here i will be posting modified meshes which add snap points to settlement items. (Vanilla meshes only unless requested by the mod author in the case of custom meshes) Taking requests on any vanilla mesh associated with base game-dlccontent, Homemaker, or SKE. If you are unsure on wether a mesh you would like edited is vanilla or not, just PM me.",
+        "GameName": "Fallout4",
+        "ModID": 13959,
+        "FileID": 71471,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|13959|71471"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "uLptKtBaDoY=",
+      "Meta": null,
+      "Name": "Sprint Stuttering Fix-47760-1-2-1607200820.zip",
+      "Size": 48554,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Sprint Stuttering Fix",
+        "Author": "AntoniX",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47760/47760-1601984314-35274659.jpeg",
+        "IsNSFW": false,
+        "Description": "Fixed twitching/stuttering when sprinting in first person.\n\n\n\nИсправление дрожания камеры от первого лица при спринте.",
+        "GameName": "Fallout4",
+        "ModID": 47760,
+        "FileID": 196371,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47760|196371"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "o6oWTouG2sA=",
+      "Meta": null,
+      "Name": "Weapon Debris Crash Fix-48078-1-2-1605028967.zip",
+      "Size": 48488,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Weapon Debris Crash Fix",
+        "Author": "Antonix35",
+        "Version": "1.2.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48078/48078-1604258720-935354418.jpeg",
+        "IsNSFW": false,
+        "Description": "Fixed crashes caused by Weapon Debris setting\n\n\n\nИсправление вылетов при включенной настройке \"Осколки от выстрелов\"",
+        "GameName": "Fallout4",
+        "ModID": 48078,
+        "FileID": 194684,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|48078|194684"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "FBOlZoGZKn4=",
+      "Meta": null,
+      "Name": "0002. FastPipboy-17777-1-0.zip",
+      "Size": 10374,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "R2K's Gameplay Mods",
+        "Author": "registrator2000",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17777-0-1504919749.png",
+        "IsNSFW": false,
+        "Description": "A collection of mods and ends.",
+        "GameName": "Fallout4",
+        "ModID": 17777,
+        "FileID": 89711,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|17777|89711"
+      }
+    }
+  ],
+  "InlinedFiles": [
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "48da67e8-7f8b-4989-ba77-200f3108f941",
+      "Hash": "hGwfMvkWrkI=",
+      "Size": 49,
+      "To": "dump_running_process.bat"
+    },
+    {
+      "$type": "RemappedInlineFile, Wabbajack.Lib",
+      "SourceDataID": "afafd71e-296d-46eb-badb-1bdcea121808",
+      "Hash": "jNqNp7BSd5E=",
+      "Size": 13658,
+      "To": "ModOrganizer.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a7006a95-7e80-4344-b72a-f608bddea8e3",
+      "Hash": "v1nlpQu4GP4=",
+      "Size": 55711,
+      "To": "splash.png"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ed6c5d48-5f3b-43d5-b33a-e181e5a96177",
+      "Hash": "WgZ088iL/+g=",
+      "Size": 12064,
+      "To": "mods\\0002. FastPipboy\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "6d76b656-ac8d-4178-8e3c-d3a81ef08b7e",
+      "Hash": "oaVtYFUntOE=",
+      "Size": 12079,
+      "To": "mods\\0005. Power Grid Tools\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "857dcae3-1b4c-48cb-8e73-6705962f4a59",
+      "Hash": "1LTQ8xZaJ7I=",
+      "Size": 703,
+      "To": "mods\\Address Library for F4SE Plugins\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ef4deb5a-4bb6-45e7-a701-67cee1bc7198",
+      "Hash": "c+kiKsTtKpY=",
+      "Size": 528,
+      "To": "mods\\Baka ScrapHeap - Script Memory Limit Expander\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "48ed87d8-b353-489a-9541-d01676a1d5e4",
+      "Hash": "fi8CX/qOq84=",
+      "Size": 2990,
+      "To": "mods\\Better Console - F4SE\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2cc6429f-4748-49d0-a914-bf20b4b8f875",
+      "Hash": "XMMvEvy9IiM=",
+      "Size": 13936,
+      "To": "mods\\Boston FPS Fix - AIO\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "bd4cd450-36ec-4697-a569-45e1b452da62",
+      "Hash": "TuouVQg3DdA=",
+      "Size": 13933,
+      "To": "mods\\Boston FPS Fix - PaladinBaileyRedRocket\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "83216c8f-efdb-42f5-8b72-323ec204e9ad",
+      "Hash": "/r7imBFae80=",
+      "Size": 536,
+      "To": "mods\\Buffout 4\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "0d687ad9-f25b-4cca-b725-487862746ef4",
+      "Hash": "W6rwGm5Pgmg=",
+      "Size": 5512,
+      "To": "mods\\Canary Save File Monitor\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "4533f986-ca9b-4258-80b3-a1708bd30584",
+      "Hash": "ALNRB1BagEc=",
+      "Size": 547,
+      "To": "mods\\City Plan Contest Assistant\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "bb4b91ed-ef8d-4711-a6fe-0153ba83d389",
+      "Hash": "bX2d0UNrZzs=",
+      "Size": 542,
+      "To": "mods\\Console Commands Extender\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ed19a459-e90b-4b7b-9a36-fdb21d72919c",
+      "Hash": "9q9+bTU2BCc=",
+      "Size": 556,
+      "To": "mods\\Crafting Highlight Fix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "407f10b8-f08c-4000-8406-3205e1203761",
+      "Hash": "5yKZjcr0+mk=",
+      "Size": 423,
+      "To": "mods\\Dependencies_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a1381883-bfd6-4912-a8e0-3b94737ca9ff",
+      "Hash": "ar4XblC10J4=",
+      "Size": 482,
+      "To": "mods\\F4SE Scripts\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c114f1af-65c9-4804-a553-2ca2d68b41db",
+      "Hash": "Mw08pbHvpxY=",
+      "Size": 422,
+      "To": "mods\\Fast Start_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "3ef51c40-678a-4109-af19-c10655d7e313",
+      "Hash": "WQyGM8+N1A0=",
+      "Size": 546,
+      "To": "mods\\Faster Workshop (Workshop Lag Fix)\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "6072192b-19a1-43c3-b941-faa8ac6a0d6f",
+      "Hash": "J9KRlrx03lU=",
+      "Size": 592,
+      "To": "mods\\Flicker Fixer\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "47b2e963-9ef9-4a98-83a9-ec25f3427a22",
+      "Hash": "aicjdpTUOOk=",
+      "Size": 533,
+      "To": "mods\\FO4 Photo Mode\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "215dd2f8-f873-4daf-a29b-ffc1731ea329",
+      "Hash": "QIsoTi27Vuc=",
+      "Size": 549,
+      "To": "mods\\High FPS Physics Fix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "3f0f8715-22d4-41fc-8ca0-127a8ca1caf7",
+      "Hash": "/eW7As0TuJM=",
+      "Size": 535,
+      "To": "mods\\HUDFramework\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "252c77af-4804-447c-b4a1-038681daba46",
+      "Hash": "BDe+UGyQFtA=",
+      "Size": 557,
+      "To": "mods\\Mod Configuration Menu\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "87654cb1-d4b4-4acb-886c-68e1f032d1d7",
+      "Hash": "xU3aJPYXua4=",
+      "Size": 3273,
+      "To": "mods\\No Intro Videos\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2c8eea6e-84a3-42d2-8a87-d8df84c18769",
+      "Hash": "nEj1R++Sc4U=",
+      "Size": 533,
+      "To": "mods\\NSO - New Snap Order - snap points for furniture and decor\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "4068b42f-945f-4746-b22c-0c68f40491bb",
+      "Hash": "ipZ42g+9tx8=",
+      "Size": 818,
+      "To": "mods\\Patch for Smooth First Person Sprint and Raw Input\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d8391045-5205-481a-918e-cf74bfc5d3f7",
+      "Hash": "lm8rWmmBaSE=",
+      "Size": 423,
+      "To": "mods\\Performance_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "de99e98c-a978-4a10-be0c-68ba91dafedf",
+      "Hash": "6FVQCUVoSho=",
+      "Size": 581,
+      "To": "mods\\Place Everywhere\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "046aed25-d302-4146-a6b4-ab4a714cacbd",
+      "Hash": "UAElQFFyNSY=",
+      "Size": 568,
+      "To": "mods\\Previs Repair Pack\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c396c394-3a2f-4f16-88ba-64cd27099a82",
+      "Hash": "wbSbpdbm/R0=",
+      "Size": 584,
+      "To": "mods\\Raw Input - 100%\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c06fd1bb-8c40-436a-b00d-c52fc4bc161c",
+      "Hash": "+/6n0K+RqOo=",
+      "Size": 551,
+      "To": "mods\\Rise of the Commonwealth for Sim Settlements 2\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "e63614b9-31ff-4e25-ac94-aa40fe2fc4cf",
+      "Hash": "MRCxSYWJ4yE=",
+      "Size": 5153,
+      "To": "mods\\Sim Settlements 2\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a42dfbef-9687-4ebc-8cdb-b90d620945bc",
+      "Hash": "aeTKORcihjw=",
+      "Size": 5148,
+      "To": "mods\\Sim Settlements 2 - Extended\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "225ea430-7df0-4d69-a79b-ba8387556b2f",
+      "Hash": "0+++1iBbN8I=",
+      "Size": 5148,
+      "To": "mods\\Sim Settlements 2 - Workshop HUD Override\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "3f463a3e-fb0d-4746-b029-750916ee9fda",
+      "Hash": "5yKZjcr0+mk=",
+      "Size": 423,
+      "To": "mods\\Sim Settlements 2 Assets_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "acf7ec9f-f097-456d-a2bb-93985341dc8a",
+      "Hash": "XIGkSBoM994=",
+      "Size": 545,
+      "To": "mods\\Sim Settlements 2 Wasteland Reconstruction Kit\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "b4d1a947-f7d4-489d-baa0-4185eecae3ae",
+      "Hash": "pTkWWKjxvKc=",
+      "Size": 540,
+      "To": "mods\\SKK Fast Start Location\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d0f39d1c-303f-43ec-b2be-82fe27f26068",
+      "Hash": "BHUrBWSRoTg=",
+      "Size": 539,
+      "To": "mods\\SKK Fast Start new game\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d02079fd-e666-47e7-83c0-f56632434252",
+      "Hash": "5yKZjcr0+mk=",
+      "Size": 423,
+      "To": "mods\\Solid Systems Duo - v0.0.1_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "8124616f-48b5-42ce-96cc-a3e8608d0d38",
+      "Hash": "2SwPr2SjEYQ=",
+      "Size": 548,
+      "To": "mods\\Sprint Stuttering Fix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "29c7f95d-080a-4741-bee3-d75cf7106aa8",
+      "Hash": "kPvgwScj+x8=",
+      "Size": 554,
+      "To": "mods\\Unofficial Fallout 4 Patch\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "f6289d1a-2991-463c-89a3-e5274a441dc8",
+      "Hash": "5yKZjcr0+mk=",
+      "Size": 423,
+      "To": "mods\\Utilities_separator\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "337c5cfd-0c42-4a13-aac1-a289f15e4106",
+      "Hash": "HKVMbmZeDQQ=",
+      "Size": 526,
+      "To": "mods\\Wait Anywhere\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "980b6232-b3c5-4e10-ac22-322b51bc101a",
+      "Hash": "+f0eqlELfY4=",
+      "Size": 538,
+      "To": "mods\\Weapon Debris Crash Fix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "f2098a2f-30ff-4922-82bd-1ed0fc7397c6",
+      "Hash": "GNMBc/LCjzY=",
+      "Size": 549,
+      "To": "mods\\Workshop Framework\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "5ea23018-6d7f-434e-acda-4d2c76b1ccff",
+      "Hash": "ti0h5TUv2jk=",
+      "Size": 556,
+      "To": "mods\\Workshop Plus\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ec0eacb0-5984-46fb-8549-0c5e8a0459b1",
+      "Hash": "eoCT/4hc9JM=",
+      "Size": 1595,
+      "To": "profiles\\Solid Systems Duo\\archives.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a154788f-18fe-490c-8b8a-610489319cb9",
+      "Hash": "Ls07Pu94W3o=",
+      "Size": 2501,
+      "To": "profiles\\Solid Systems Duo\\fallout4.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "ccc7aaa0-43d9-4072-acaa-61f9486e0193",
+      "Hash": "tm3PtV4xfBQ=",
+      "Size": 755,
+      "To": "profiles\\Solid Systems Duo\\fallout4custom.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "f1166ae1-9d9e-42d0-8b14-ff9ce56286ce",
+      "Hash": "v5x5PIUxCfo=",
+      "Size": 4891,
+      "To": "profiles\\Solid Systems Duo\\fallout4prefs.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "8a137480-efab-4eb5-83d7-754769ae2164",
+      "Hash": "zH3GSffbvsA=",
+      "Size": 36,
+      "To": "profiles\\Solid Systems Duo\\initweaks.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a963f999-b640-432f-816f-6d02b8ba784f",
+      "Hash": "07rolPwPr/E=",
+      "Size": 707,
+      "To": "profiles\\Solid Systems Duo\\loadorder.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "5d026c6c-ab86-4d54-9c7f-fe5e01b06b95",
+      "Hash": "CcflEOKPT3E=",
+      "Size": 59,
+      "To": "profiles\\Solid Systems Duo\\lockedorder.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "6096009b-0959-4aee-9dad-94fb56cb9f32",
+      "Hash": "itjgArwb4CM=",
+      "Size": 1418,
+      "To": "profiles\\Solid Systems Duo\\modlist.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "3c099569-cd15-4c8b-83f8-06a8d436dfc1",
+      "Hash": "JzviM50CfE8=",
+      "Size": 612,
+      "To": "profiles\\Solid Systems Duo\\plugins.txt"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "402a9cfa-8722-48a1-96b4-52b283bb2846",
+      "Hash": "uWyxDtI63+U=",
+      "Size": 84,
+      "To": "profiles\\Solid Systems Duo\\settings.ini"
+    }
+  ]
+}
